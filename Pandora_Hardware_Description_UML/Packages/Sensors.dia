@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dia:diagram xmlns:dia="http://www.lysator.liu.se/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="background">
+      <dia:color val="#ffffff"/>
+    </dia:attribute>
+    <dia:attribute name="pagebreak">
+      <dia:color val="#000099"/>
+    </dia:attribute>
+    <dia:attribute name="paper">
+      <dia:composite type="paper">
+        <dia:attribute name="name">
+          <dia:string>#Letter#</dia:string>
+        </dia:attribute>
+        <dia:attribute name="tmargin">
+          <dia:real val="2.5399999618530273"/>
+        </dia:attribute>
+        <dia:attribute name="bmargin">
+          <dia:real val="2.5399999618530273"/>
+        </dia:attribute>
+        <dia:attribute name="lmargin">
+          <dia:real val="2.5399999618530273"/>
+        </dia:attribute>
+        <dia:attribute name="rmargin">
+          <dia:real val="2.5399999618530273"/>
+        </dia:attribute>
+        <dia:attribute name="is_portrait">
+          <dia:boolean val="true"/>
+        </dia:attribute>
+        <dia:attribute name="scaling">
+          <dia:real val="1"/>
+        </dia:attribute>
+        <dia:attribute name="fitto">
+          <dia:boolean val="false"/>
+        </dia:attribute>
+      </dia:composite>
+    </dia:attribute>
+    <dia:attribute name="grid">
+      <dia:composite type="grid">
+        <dia:attribute name="width_x">
+          <dia:real val="1"/>
+        </dia:attribute>
+        <dia:attribute name="width_y">
+          <dia:real val="1"/>
+        </dia:attribute>
+        <dia:attribute name="visible_x">
+          <dia:int val="1"/>
+        </dia:attribute>
+        <dia:attribute name="visible_y">
+          <dia:int val="1"/>
+        </dia:attribute>
+        <dia:composite type="color"/>
+      </dia:composite>
+    </dia:attribute>
+    <dia:attribute name="color">
+      <dia:color val="#d8e5e5"/>
+    </dia:attribute>
+    <dia:attribute name="guides">
+      <dia:composite type="guides">
+        <dia:attribute name="hguides"/>
+        <dia:attribute name="vguides"/>
+      </dia:composite>
+    </dia:attribute>
+  </dia:diagramdata>
+  <dia:layer name="Background" visible="true" active="true">
+    <dia:object type="UML - LargePackage" version="0" id="O0">
+      <dia:attribute name="obj_pos">
+        <dia:point val="12.375,5.605"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="12.325,3.755;60.9125,40.1796"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="12.375,5.605"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="48.487499999999997"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="34.524622137909986"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.20000000298023224"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#f7f1d0"/>
+      </dia:attribute>
+      <dia:attribute name="text_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="stereotype">
+        <dia:string>#Sensors#</dia:string>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:string>##</dia:string>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - LargePackage" version="0" id="O1">
+      <dia:attribute name="obj_pos">
+        <dia:point val="42.3,10.3125"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="42.25,8.4625;59.25,21.15"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="42.3,10.3125"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="16.899999999999999"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="10.787499999999998"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.10000000149011612"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c3b0ae"/>
+      </dia:attribute>
+      <dia:attribute name="text_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="stereotype">
+        <dia:string>#Head Sensors#</dia:string>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:string>##</dia:string>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - LargePackage" version="0" id="O2">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25.8474,26.4164"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="25.7974,24.5664;48.1376,35.0477"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="25.8474,26.4164"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="22.240200000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="8.581300000000013"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.10000000149011612"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c3b0ae"/>
+      </dia:attribute>
+      <dia:attribute name="text_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="stereotype">
+        <dia:string>#Base Sensors#</dia:string>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:string>##</dia:string>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - LargePackage" version="0" id="O3">
+      <dia:attribute name="obj_pos">
+        <dia:point val="14.325,9.9675"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="14.275,8.1175;38.6,20.85"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="14.325,9.9675"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="24.224999999999998"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="10.832499999999998"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.10000000149011612"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c3b0ae"/>
+      </dia:attribute>
+      <dia:attribute name="text_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="stereotype">
+        <dia:string>#Central Sensors#</dia:string>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:string>##</dia:string>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O4">
+      <dia:attribute name="obj_pos">
+        <dia:point val="14.775,11.155"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="14.725,10.605;20.9775,14.6053"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="14.775,11.155"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="5.6524999999999999"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:RGBD-camera#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="15.275,12.3125"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O5">
+      <dia:attribute name="obj_pos">
+        <dia:point val="30.625,11.255"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="30.575,10.705;36.06,14.7053"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="30.625,11.255"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.8849999999999945"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:Compass#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="31.125,12.4125"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O6">
+      <dia:attribute name="obj_pos">
+        <dia:point val="15.125,16.305"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="15.075,15.755;22.7072,19.7553"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="15.125,16.305"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="7.0322039421564675"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:LaserRangeFinder#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="15.625,17.4625"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O7">
+      <dia:attribute name="obj_pos">
+        <dia:point val="22.975,11.105"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="22.925,10.555;28.73,14.5553"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="22.975,11.105"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="5.2050000000000001"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:RGB-camera#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="23.475,12.2625"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O8">
+      <dia:attribute name="obj_pos">
+        <dia:point val="44.425,11.905"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="44.375,11.355;49.96,15.3553"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="44.425,11.905"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.9849999999999923"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:CO2Sensor#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="44.925,13.0625"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O9">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25.8125,15.9659"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="25.7625,15.4159;31.5425,19.4162"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="25.8125,15.9659"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="5.1800000000000033"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:Microphone#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="26.3125,17.1234"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O10">
+      <dia:attribute name="obj_pos">
+        <dia:point val="43.475,16.855"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="43.425,16.305;53.75,20.3053"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="43.475,16.855"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="9.7249999999999996"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:GridEyeInfraredArraySensor#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="43.975,18.0125"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O11">
+      <dia:attribute name="obj_pos">
+        <dia:point val="27.0121,28.1519"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="26.9621,27.6019;35.9091,31.6022"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="27.0121,28.1519"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="8.3470339774819795"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:UltrasonicRangeFinder#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="27.5121,29.3094"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Node" version="0" id="O12">
+      <dia:attribute name="obj_pos">
+        <dia:point val="37.2171,29.6262"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="37.1671,29.0762;46.5936,33.0765"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="37.2171,29.6262"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="8.8265000000000029"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="3.4002999399224905"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#c1c0e4"/>
+      </dia:attribute>
+      <dia:attribute name="name">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#&lt;&lt;Device&gt;&gt;
+
+:MagneticRotaryEncoder#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="URW Gothic L" style="64" name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80009997997416349"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="37.7171,30.7837"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+  </dia:layer>
+</dia:diagram>
