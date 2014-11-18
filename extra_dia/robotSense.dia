@@ -159,7 +159,7 @@
         <dia:color val="#000000"/>
       </dia:attribute>
       <dia:attribute name="fill_colour">
-        <dia:color val="#eecb29"/>
+        <dia:color val="#90ee90"/>
       </dia:attribute>
       <dia:attribute name="show_background">
         <dia:boolean val="true"/>
@@ -229,7 +229,7 @@
         <dia:color val="#000000"/>
       </dia:attribute>
       <dia:attribute name="fill_colour">
-        <dia:color val="#eecb29"/>
+        <dia:color val="#c1c0e4"/>
       </dia:attribute>
       <dia:attribute name="show_background">
         <dia:boolean val="true"/>
