@@ -1,0 +1,32 @@
+lrf_pitch_controller:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: tilt_joint
+    joint_speed: 1.17
+    motor:
+        id: 1
+        init: 512
+        min: 0
+        max: 1023
+
+lrf_roll_controller:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: tilt_joint
+    joint_speed: 1.17
+    motor:
+        id: 2
+        init: 512
+        min: 0
+        max: 1023
+
+
+
+
+
+
+
